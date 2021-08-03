@@ -1,18 +1,9 @@
 .chatbot{
     display: grid;
-    grid-template-rows: 30px auto 60px;
+    grid-template-rows: 100px auto 45px;
+    padding: 6px;
+    height: calc(100vh -110px);
 }
 .chatHeader{
-background-color: rgb(155, 230, 192);
-
-}
-.chatConversa{
-    background-color: rgb(218, 199, 95);  
-   
-
-}
-.chatMensagem{
-    background-color: rgb(101, 119, 156);
-    
-    
+    text-align: center;
 }

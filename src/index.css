@@ -27,8 +27,8 @@ code {
 
 .chatbot{
   grid-area:chatbot;
-  background-color: rgb(243, 239, 236);
-  height:calc(100vh - 63px);
+  background-color: rgb(177, 175, 174);
+  height:calc(100vh - 110px);
 
  
 }

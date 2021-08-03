@@ -1,0 +1,18 @@
+.chatbot{
+    display: grid;
+    grid-template-rows: 30px auto 60px;
+}
+.chatHeader{
+background-color: rgb(155, 230, 192);
+
+}
+.chatConversa{
+    background-color: rgb(218, 199, 95);  
+   
+
+}
+.chatMensagem{
+    background-color: rgb(101, 119, 156);
+    
+    
+}
